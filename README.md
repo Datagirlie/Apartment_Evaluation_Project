@@ -49,10 +49,10 @@ The common error associated with this dataset include:
 In other to be able to analyse my cleaned data and get meaningful insights from it, i decided to use the _Key Performers Indicators_ by creating a new rule in the _conditional formatting_ tab based on the appartment scores given in different ward areas by the year of registration. Also, i used the _Pivot Table_ to be able to summarize the average scores gotten during evaluation by different ward areas based on the years. Based on the average scores gotten per each year from the evaluation scores of the different ward areas, the years with high evaluation was able to known.
 The year with highest scores indicates a **green** dot while the year with the average scores indicates **yellow**  and finally the year with the lowest scores indicates **red**. All of this are based on the ward areas, therefore all the different ward areas have there different values and average scores. I also inserted **slicers** to be able to shuffle through the different ward areas,to understand the average distribution of scores per year.
 
-  Sample 1     
-Average score for Beaches East-York  | Average score for Daven Port         |       Average score for Don Valley East   
+
+Average score for Beaches East-York| Average score for Daven Port         |       Average score for Don Valley East   
 |-----------------------:|:-----------------------------:|:------------------------------------------------------------|
-![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_1.PNG)         |     ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_2.PNG)           
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_1.PNG)     |   ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_2.PNG)  |  ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/kpi_3.PNG)         
 
 ## Visualization
 After cleaning and analysing the data using pivot tables and KPIs, i went over to Tableau to create a visual report of this dataset.
