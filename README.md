@@ -62,8 +62,12 @@ After cleaning and analysing the data using pivot tables and KPIs, i went over t
 
 
 ## Insights.
+While creating the visual report of this dataset, the following insights were drawn:
 
-
+## 1. Building Scores in Ward Areas and Geography. 
+![](map.png)
+The Central and Southern region of Toronto have the highest evaluation scores compared to the Northern region, with Toronto St-Pual’s having the total highest score of 499,284 and Scarborough North having the lowest evaluation score of 12,684. This significant difference can be attributed to the Southern region been more densely populated and it have most major roads and institutions compared to the North. However, more buildings are being built in this areas and are highly maintained due to high demand. The increase in property and evaluation scores have also influenced some parts of the Central region that is close to the South. 
+![](building score_ward names.png)
 
 
 
