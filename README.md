@@ -53,6 +53,9 @@ The year with highest scores indicates a **green** dot while the year with the a
 ## Visualization
 After cleaning and analysing the data using pivot tables and KPIs, i went over to Tableau to create a visual report of this dataset.
 
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Dashboard%201%20(19).png)
+
+
 
 ## Insights.
 
