@@ -2,10 +2,13 @@
 
 _This is an Excel Analysis on the apartment building evaluation scores from the year 2017 to 2021 that are registered in Toronto with RentSafeTO. The data was visualized with **Tableau**._
 
-![](Apartment.jpg)
 
 ## Introduction
+
+![](Apartment.jpg)
+
 **RentSafeTO** aims to ensure that building owners and operators comply with building maintenance standards through initiatives like evaluations and that tenants understand their rights and responsibilities. Apartment Building Standards is a bylaw enforcement program established in 2017 to ensure that owners and operators of apartment buildings with three or more storeys or 10 or more units comply with building maintenance standards. 
+
 
 
 ##  Skills Concepts demonstrated:
