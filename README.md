@@ -15,9 +15,8 @@ Data Cleaning, Data Management, KPI Metrics, Data visualization.
 
 ##  Problem Statement
 During evaluations, Bylaw Enforcement Officers inspect common areas, mechanical and security systems, parking and exterior grounds. Each item is inspected and assigned a score from one to five, with one being the lowest and five being the highest. If an item is not applicable to the building at the time of evaluation, the score will show as blank in the dataset.
-The dataset was downloaded from RentSafeTO website.
 
-However, based on the given dataset the following questions are to be answered:
+However, based on the given dataset the following questions were answered:
 
 1. What were the common errors / issues you encountered with the data?
 2. What is the evaluation scores based on property type?
@@ -25,6 +24,8 @@ However, based on the given dataset the following questions are to be answered:
 4. What is the building scores based on ward areas?
 5. What is the apartment building scores distribution by geography?
 6. What is the apartment building scores based on year of building?
+
+ _**Disclaimer** The dataset was downloaded from RentSafeTO website._
 
 ## Data Cleaning/Transformation
 The common error associated with this dataset include:
@@ -34,7 +35,6 @@ The common error associated with this dataset include:
 -	Incomplete Rows and Columns
 -	Inconsistency with Data about information given
 
-## Methodology
   To clean the dataset given using Microsoft Excel, i took the following steps:
   
 1.	I created  a consistency with all the Headings in the column. Selected the heading row and made them bold using _Ctrl + B_.
@@ -66,13 +66,21 @@ After cleaning and analysing the data using pivot tables and KPIs, i went over t
 
 # 1. Building Scores in Ward Areas and Geography. 
 
-The Central and Southern region of Toronto have the highest evaluation scores compared to the Northern region, with Toronto St-Pual’s having the total highest score of 499,284 and Scarborough North having the lowest evaluation score of 12,684. This significant difference can be attributed to the Southern region been more densely populated and it have most major roads and institutions compared to the North. However, more buildings are being built in this areas and are highly maintained due to high demand. The increase in property and evaluation scores have also influenced some parts of the Central region that is close to the South. 
+The Central and Southern region of Toronto have the highest evaluation scores compared to the Northern region, with Toronto St-Pual’s having the total highest score of 499,284 and Scarborough North having the lowest evaluation score of 12,684. This significant difference can be attributed to the Southern region been more densely populated and it have most major roads and institutions compared to the North. However, more buildings are being built in these areas and are highly maintained due to high demand. The increase in property and evaluation scores have also influenced some parts of the Central region that is close to the South, hence the increase in evaluation scores in some wards in the central region. 
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/building%20score_ward%20names.png) | ![](map.png)
 |---------------------------------:|:--------------------------------|
 
-# 2. Evuluation Based on Property Type
-Private owned properties have the highest average of evaluation score of 84.76% compared to the Toronto community Housing and the Social housing that have low scores 8.95% and 6.29%. This clearly proves that private owned apartments are highly maintained than the Government owned apartments. However, this can affect the level at which people apartments that is owned by the government.
+# 2. Evaluation Based on Property Type
+Private owned properties have the highest average of evaluation score of 84.76% compared to the Toronto community Housing and the Social housing that have low scores 8.95% and 6.29%. This clearly proves that private owned apartments are highly maintained compared to the Government owned apartments. However, this can affect the level at which people rnt apartments owned by the government.
+
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPTY%20SCORES.png)
+
+# 3. Evaluation Based On Year Registered
+In 2017, the evaluation scores for all the types of property increased significantly especially for Private owned properties. Also, note that the apartment building standards bylaw enforcement program was established in 2017 to ensure that owners and operators of apartment buildings. This increase can be due to most apartments been registered and meeting up to the specific standards at the start of the evaluation process.
+
+However, there was a great decrease in 2018 and in subsequent years which can be attributed to most buildings been registered and evaluated the previous year. This can however show that new buildings have not being built over the years. Also, if evaluation is done every 3yrs, what could have affected the scores in 2020 and 2023 to be this low?
+
 
 
 
