@@ -89,6 +89,15 @@ Based on the year the buildings were built, the year 1960 is recorded as the yea
 However, what could have cause the buildings built in 1960 to have such high evaluation sores? Could this be because of the type of building built or the materials used or even the structures and pattern of buildings built this particular year?
 Also, the scores of buildings built in subsequent years dropped. What could also have caused this drastic drop in the evaluation scores for buildings later than 1960?
 
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Apartment%20Building%20Scores.png)
+
+## Recomendations:
+-	All buildings must have the year the building was built, before evaluation must be carried out and recorded.
+-	Certain Criteria should be met before some buildings are Evaluated, to avoid too much data on building that do not meet most of the Evaluation criteria.
+-	Buildings that do not have any specified location and ward names should also not be inserted in the dataset, this will help to build consistency.
+-	More attention should be given to buildings in the Northern region to make sure that there is a balance in all regions based on apartment evaluation and also developmental growth.
+-	Old buildings can be re-built or renovated so that there is continuity in the evaluation processes and also help in the developmental growth Toronto.
+  
 
 
 
