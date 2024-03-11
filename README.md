@@ -54,36 +54,35 @@ Average score for Beaches East-York| Average score for Daven Port         |     
 |-----------------------:|:-----------------------------:|:------------------------------------------------------------|
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_1.PNG)     |   ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_2.PNG)  |  ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/kpi_3.PNG)         
 
-## Visualization
+# Visualization
 After cleaning and analysing the data using pivot tables and KPIs, i went over to Tableau to create a visual report of this dataset.
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Dashboard%201%20(19).png)
 
 
 
-## Insights.
 
 
-# 1. Building Scores in Ward Areas and Geography. 
+## 1. Building Scores in Ward Areas and Geography. 
 
 The Central and Southern region of Toronto have the highest evaluation scores compared to the Northern region, with Toronto St-Pual’s having the total highest score of 499,284 and Scarborough North having the lowest evaluation score of 12,684. This significant difference can be attributed to the Southern region been more densely populated and it have most major roads and institutions compared to the North. However, more buildings are being built in these areas and are highly maintained due to high demand. The increase in property and evaluation scores have also influenced some parts of the Central region that is close to the South, hence the increase in evaluation scores in some wards in the central region. 
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/building%20score_ward%20names.png) | ![](map.png)
 |---------------------------------:|:--------------------------------|
 
-# 2. Evaluation Based on Property Type
+## 2. Evaluation Based on Property Type
 Private owned properties have the highest average evaluation score of 84.76% compared to the Toronto community Housing(TCHC) and the Social housing that have low scores of 8.95% and 6.29%. This clearly proves that private owned apartments are highly maintained compared to the Government owned apartments. However, this can affect the level at which people rent apartments owned by the government. Also, tenants are more satisfied with the maintenance and also the facilities available in private owned properties compared to properties owned by the government.
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPTY%20SCORES.png)
 
-# 3. Evaluation Based On Year Registered
+## 3. Evaluation Based On Year Registered
 In 2017, the evaluation scores for all the types of property increased significantly especially for Private owned properties. Also, note that the apartment building standards bylaw enforcement program was established in 2017 to ensure that owners and operators of apartment buildings. This increase can be due to most apartments been registered and meeting up to the specific standards at the start of the evaluation process.
 
 However, there was a great decrease in 2018 and in subsequent years which can be attributed to most buildings been registered and evaluated the previous year. This can however show that new buildings have not being built over the years. Also, if evaluation is done every 3yrs, what could have affected the scores in 2020 and 2023 to be this low?
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPERTY%20TYPES.png)
 
-# 4. Building Scores to Year of Building Built.
+## 4. Building Scores to Year of Building Built.
 Based on the year the buildings were built, the year 1960 is recorded as the year with the highest number of building scores of 510,192 and 1889 as the year with the lowest score of 397. In 1889, it is possible that architectural advancements have not really began hence the low evaluation score. It can also be due to how old these buildings have turned over the years. 
 
 However, what could have cause the buildings built in 1960 to have such high evaluation sores? Could this be because of the type of building built or the materials used or even the structures and pattern of buildings built this particular year?
