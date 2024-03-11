@@ -96,7 +96,7 @@ Also, the scores of buildings built in subsequent years dropped. What could also
 -	Certain Criteria should be met before some buildings are Evaluated, to avoid too much data on building that do not meet most of the Evaluation criteria.
 -	Buildings that do not have any specified location and ward names should also not be inserted in the dataset, this will help to build consistency.
 -	More attention should be given to buildings in the Northern region to make sure that there is a balance in all regions based on apartment evaluation and also developmental growth.
--	Old buildings can be re-built or renovated so that there is continuity in the evaluation processes and also help in the developmental growth Toronto.
+-	Old buildings can be re-built or renovated so that there is continuity in the evaluation processes and also help in the developmental growth in Toronto.
   
 
 
