@@ -72,7 +72,7 @@ The Central and Southern region of Toronto have the highest evaluation scores co
 |---------------------------------:|:--------------------------------|
 
 # 2. Evaluation Based on Property Type
-Private owned properties have the highest average of evaluation score of 84.76% compared to the Toronto community Housing and the Social housing that have low scores 8.95% and 6.29%. This clearly proves that private owned apartments are highly maintained compared to the Government owned apartments. However, this can affect the level at which people rnt apartments owned by the government.
+Private owned properties have the highest average evaluation score of 84.76% compared to the Toronto community Housing(TCHC) and the Social housing that have low scores of 8.95% and 6.29%. This clearly proves that private owned apartments are highly maintained compared to the Government owned apartments. However, this can affect the level at which people rent apartments owned by the government. Also, tenants are more satisfied with the maintenance and also the facilities available in private owned properties compared to properties owned by the government.
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPTY%20SCORES.png)
 
@@ -80,6 +80,15 @@ Private owned properties have the highest average of evaluation score of 84.76% 
 In 2017, the evaluation scores for all the types of property increased significantly especially for Private owned properties. Also, note that the apartment building standards bylaw enforcement program was established in 2017 to ensure that owners and operators of apartment buildings. This increase can be due to most apartments been registered and meeting up to the specific standards at the start of the evaluation process.
 
 However, there was a great decrease in 2018 and in subsequent years which can be attributed to most buildings been registered and evaluated the previous year. This can however show that new buildings have not being built over the years. Also, if evaluation is done every 3yrs, what could have affected the scores in 2020 and 2023 to be this low?
+
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPERTY%20TYPES.png)
+
+# 4. Building Scores to Year of Building Built.
+Based on the year the buildings were built, the year 1960 is recorded as the year with the highest number of building scores of 510,192 and 1889 as the year with the lowest score of 397. In 1889, it is possible that architectural advancements have not really began hence the low evaluation score. It can also be due to how old these buildings have turned over the years. 
+
+However, what could have cause the buildings built in 1960 to have such high evaluation sores? Could this be because of the type of building built or the materials used or even the structures and pattern of buildings built this particular year?
+Also, the scores of buildings built in subsequent years dropped. What could also have caused this drastic drop in the evaluation scores for buildings later than 1960?
+
 
 
 
