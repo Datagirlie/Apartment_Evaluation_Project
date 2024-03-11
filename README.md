@@ -51,7 +51,7 @@ The year with highest scores indicates a **green** dot while the year with the a
 
   Sample 1                 |            Sample 2           |         
 |-----------------------:|:-----------------------------|
-![](kpi_1.PNG)           |     ![](kpi_2.PNG)           
+![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/Kpi_1.PNG)         |     ![](kpi_2.PNG)           
 
 ## Visualization
 After cleaning and analysing the data using pivot tables and KPIs, i went over to Tableau to create a visual report of this dataset.
