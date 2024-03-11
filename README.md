@@ -54,6 +54,7 @@ The year with highest scores indicates a **green** dot while the year with the a
 After cleaning and analysing the data using pivot tables and KPIs, i went over to Tableau to create a visual report of this dataset.
 
 
+## Insights.
 
 
 
