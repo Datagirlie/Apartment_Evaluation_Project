@@ -17,7 +17,9 @@ The following analysis skills were incorporated:
 Data Cleaning, Data Management, KPI Metrics, Data visualization.
 
 ##  Problem Statement
-During evaluations, Bylaw Enforcement Officers inspect common areas, mechanical and security systems, parking and exterior grounds. Each item is inspected and assigned a score from one to five, with one being the lowest and five being the highest. If an item is not applicable to the building at the time of evaluation, the score will show as blank in the dataset.
+During evaluations, Bylaw Enforcement Officers inspect common areas, mechanical and security systems, parking and exterior grounds. Each item is inspected and assigned a score from one to five, with one being the lowest and five being the highest. If an item is not applicable to the building at the time of evaluation, the score will show as blank in the dataset. 
+
+The data collection team of contacted me to go through the acquired data collected, clean and transform the data and also give suggestions based in the data collected and also note areas for improvement.
 
 However, based on the given dataset the following questions were answered:
 
@@ -81,7 +83,7 @@ Private owned properties have the highest average evaluation score of 84.76% com
 ## 3. Evaluation Based On Year Registered
 In 2017, the evaluation scores for all the types of property increased significantly especially for Private owned properties. Also, note that the apartment building standards bylaw enforcement program was established in 2017 to ensure that owners and operators of apartment buildings. This increase can be due to most apartments been registered and meeting up to the specific standards at the start of the evaluation process.
 
-However, there was a great decrease in 2018 and in subsequent years which can be attributed to most buildings been registered and evaluated the previous year. This can however show that new buildings have not being built over the years. Also, if evaluation is done every 3yrs, what could have affected the scores in 2020 and 2023 to be this low?
+However, there was a great decrease in 2018 and in subsequent years which can be attributed to most buildings been registered and evaluated the previous year. This can however show that new buildings have not being built over the years. Also, if evaluation is done every 3yrs, what could have affected the scores in 2020 to be this low?
 
 ![](https://github.com/Datagirlie/Apartment_Evaluation_Project/blob/main/PROPERTY%20TYPES.png)
 
@@ -97,8 +99,22 @@ Also, the scores of buildings built in subsequent years dropped. What could also
 -	All buildings must have the year the building was built, before evaluation must be carried out and recorded.
 -	Certain Criteria should be met before some buildings are Evaluated, to avoid too much data on building that do not meet most of the Evaluation criteria.
 -	Buildings that do not have any specified location and ward names should also not be inserted in the dataset, this will help to build consistency.
--	More attention should be given to buildings in the Northern region to make sure that there is a balance in all regions based on apartment evaluation and also developmental growth.
+-	More attention should be given to buildings in the Northern region to make sure that there is a balance in all regions based on apartment evaluation and also developmental growth in The whole of Toronto.
 -	Old buildings can be re-built or renovated so that there is continuity in the evaluation processes and also help in the developmental growth in Toronto.
+-	To keep the standard of buildings until this prsent age, architectural structures from the year 1960 should be adopted in building apratments.
+
+
+## Conclusions: 
+Based on the findings from this data, private owned properties have more building standards and maintanence cultures compare to the government owned properties. However, the southern wards have the best type of buildings compared to the northern wards which can be attributed to the southern wards been more advanced in structures and densely populated.
+
+
+
+
+
+_Note: The dataset can be found in the **Apartment Evaluation(1).Xlsx** file attached to this repository._
+
+Kindly drop in your comments or Observations.
+
   
 
 
